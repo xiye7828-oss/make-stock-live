@@ -1,3 +1,5 @@
+# make-stock-live 使用说明
+
 一、这个 Skill 是干什么的
 make-stock-live 是一个 股票知识直播内容中控 Skill。
 它不是普通写稿工具。
